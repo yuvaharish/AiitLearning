@@ -1,1 +1,6 @@
 java project welcome to github learning
+git init
+git add
+git commit
+git add origin master
+git push
