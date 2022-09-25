@@ -1,6 +1,7 @@
 java project welcome to github learning
-git init
-git add
-git commit
-git add origin master
-git push
+
+<html> learning project welcome to githubt</html>
+<Td>git init</td>
+<td><git add</td>
+<td>git commit</td>
+
